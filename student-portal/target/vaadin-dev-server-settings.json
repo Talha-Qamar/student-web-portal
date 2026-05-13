@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/./src/main/frontend/generated/jar-resources",
+  "themeName": "fast-portal",
+  "clientServiceWorkerSource": "/Users/Shared/MTQ/Academic Career/NUCES(FAST)/Semester 6/SE/I230013_I230661_I230810_Final_Project/student-portal/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

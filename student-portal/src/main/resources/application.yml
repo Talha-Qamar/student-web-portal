@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://ep-spring-breeze-ansjd002-pooler.c-6.us-east-1.aws.neon.tech:5432/neondb?sslmode=require
+    username: neondb_owner
+    password: npg_EGpMqr1ain0x
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+  sql:
+    init:
+      mode: never
+      schema-locations: classpath:database/schema.sql
+      data-locations: classpath:database/sample-data.sql
+      continue-on-error: true
+
+server:
+  port: 8080
+
+logging:
+  level:
+    org.springframework: INFO
+    com.studentportal: DEBUG
