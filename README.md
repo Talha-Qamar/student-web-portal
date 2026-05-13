@@ -2,8 +2,6 @@
 
 A comprehensive web-based student management system built as a concept for NUCES (National University of Computer and Emerging Sciences). This full-stack application enables efficient management of student enrollments, academic records, attendance tracking, and course feedback across multiple stakeholder roles.
 
-**GitHub Repository**: [Talha-Qamar/student-web-portal](https://github.com/Talha-Qamar/student-web-portal)
-
 ---
 
 ## 📋 Table of Contents
@@ -597,14 +595,6 @@ mvn test
 
 ---
 
-## 👥 Team Members
-
-**Group 3** - NUCES Semester 6 SE Project
-- Roll Number: I230013
-- Roll Number: I230661
-- Roll Number: I230810
-
----
 
 ## 📄 License
 
@@ -617,5 +607,3 @@ Academic project for NUCES (National University of Computer and Emerging Science
 **GitHub**: [Talha-Qamar/student-web-portal](https://github.com/Talha-Qamar/student-web-portal)
 
 ---
-
-**Last Updated**: May 2024
