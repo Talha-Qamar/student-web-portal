@@ -1,6 +1,6 @@
 # Student Portal - NUCES
 
-A comprehensive web-based student management system built for NUCES (National University of Computer and Emerging Sciences). This full-stack application enables efficient management of student enrollments, academic records, attendance tracking, and course feedback across multiple stakeholder roles.
+A comprehensive web-based student management system built as a concept for NUCES (National University of Computer and Emerging Sciences). This full-stack application enables efficient management of student enrollments, academic records, attendance tracking, and course feedback across multiple stakeholder roles.
 
 **GitHub Repository**: [Talha-Qamar/student-web-portal](https://github.com/Talha-Qamar/student-web-portal)
 
